@@ -12,7 +12,7 @@ interface AuthorProps {
 }
 
 interface ContentProps {
-  type: "paragraph" | "link";
+  type: string;
   content: string;
 }
 
