@@ -76,7 +76,7 @@ Here are the main features of the project.
 
 ## 📎 Links
 
-  - Deploy on [Netlify](https://www.netlify.com/): https://react-challenge-1.netlify.app/
+  - Deploy on [Netlify](https://www.netlify.com/): https://ignite-feed-pedrohb.netlify.app/
   - Repository: https://github.com/DevPedroHB/ignite-feed
 
 ## 🔰 Versioning
@@ -91,4 +91,3 @@ This project is licensed under the MIT license.
 ---
 
 Made with ♥ by Pedro Henrique 🚀 [Never stop learning!](https://github.com/DevPedroHB)
-  
